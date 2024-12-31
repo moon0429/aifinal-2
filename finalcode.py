@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+mport matplotlib.pyplot as plt
 import seaborn as sns
 %matplotlib inline
 import numpy as np
